@@ -1,8 +1,8 @@
-## Не забудь звезду
+## Advanced Nest backend 
 
-в файле .development.env конфигурация для бд. Добавить свою.
+Swagger/Nest/Postgres/Roles routes/ 
 
-#### npm run start:dev - Запуск
+#### npm run start:dev - start
 
 ##
 
